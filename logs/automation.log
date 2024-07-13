@@ -1,0 +1,22 @@
+16:58:15.881 [main] INFO  testcases.TC_002_LoginTest - user is redirected to customer login page
+16:58:15.962 [main] INFO  testcases.TC_002_LoginTest - email entered
+16:58:16.021 [main] INFO  testcases.TC_002_LoginTest - password entered
+16:58:18.390 [main] INFO  testcases.TC_002_LoginTest - clicked login button
+17:03:18.208 [main] INFO  testcases.TC_002_LoginTest - ***************** Starting login test *************** 
+17:03:20.873 [main] INFO  testcases.TC_002_LoginTest - user is redirected to customer login page
+17:03:20.939 [main] INFO  testcases.TC_002_LoginTest - email entered
+17:03:20.996 [main] INFO  testcases.TC_002_LoginTest - password entered
+17:03:24.633 [main] INFO  testcases.TC_002_LoginTest - clicked login button
+17:03:24.645 [main] INFO  testcases.TC_002_LoginTest - User is on Home page
+17:58:00.837 [main] INFO  testcases.TC_002_LoginTest - ***************** Starting login test *************** 
+17:58:04.130 [main] INFO  testcases.TC_002_LoginTest - user is redirected to customer login page
+17:58:04.197 [main] INFO  testcases.TC_002_LoginTest - email entered
+17:58:04.266 [main] INFO  testcases.TC_002_LoginTest - password entered
+17:58:06.595 [main] INFO  testcases.TC_002_LoginTest - clicked login button
+17:58:06.601 [main] INFO  testcases.TC_002_LoginTest - User is on Home page
+18:12:22.259 [main] INFO  testcases.TC_002_LoginTest - ***************** Starting login test *************** 
+18:12:26.496 [main] INFO  testcases.TC_002_LoginTest - user is redirected to customer login page
+18:12:26.562 [main] INFO  testcases.TC_002_LoginTest - email entered
+18:12:26.625 [main] INFO  testcases.TC_002_LoginTest - password entered
+18:12:29.200 [main] INFO  testcases.TC_002_LoginTest - clicked login button
+18:12:29.206 [main] INFO  testcases.TC_002_LoginTest - User is on Home page
